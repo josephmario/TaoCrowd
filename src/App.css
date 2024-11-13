@@ -82,20 +82,20 @@ span {
 
 .status-upcoming {
   background-color: #6dfbfb;
-  color: black; /* Change text color to ensure contrast */
+  color: black;
   padding: 5px 10px;
   border-radius: 3px;
 }
 
 .status-success {
-  background-color: #28a745; /* Green for success */
+  background-color: #28a745;
   color: black;
   padding: 5px 10px;
   border-radius: 3px;
 }
 
 .status-failed {
-  background-color: #dc3545; /* Red for failed */
+  background-color: #dc3545;
   color: black;
   padding: 5px 10px;
   border-radius: 3px;
